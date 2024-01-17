@@ -1,4 +1,7 @@
-# ws-app
+# ISD
+Práctica final de Internet y Sistemas Distribuídos 23-24
+
+## ws-app
 
 ## Installing the development environment
 
